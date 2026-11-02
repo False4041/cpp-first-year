@@ -1,0 +1,25 @@
+# Build products
+build/
+out/
+Debug/
+Release/
+x64/
+.vs/
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+*.idb
+*.ipch
+*.tlog/
+*.vcxproj.user
+
+# Generated lab results
+lab-01/task-03/b.txt
+lab-01/task-05/b.txt
+lab-01/task-06/result.txt
+lab-01/task-07/f3.txt
+lab-01/task-08/jazz.dat
+lab-01/task-09/a.bin
+lab-01/task-10/book.dat
